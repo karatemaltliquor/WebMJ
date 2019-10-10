@@ -69,6 +69,7 @@
     position: fixed;
     top: 0px;
     max-height: 70px;
+    min-width: 300px;
     z-index: 999;
     width: 100%;
     padding-top: 17px;

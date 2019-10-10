@@ -85,6 +85,11 @@ p {
     padding-top: 25px;
   }
 }
+@media only screen and (min-width: px) {
+  .main_header {
+    padding-top: 25px;
+  }
+}
 
 .open-nav {
   max-height: 400px !important;
